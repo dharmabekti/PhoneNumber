@@ -1,0 +1,9 @@
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe.config
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.Properties.Resources.resources
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.UI.Form1.resources
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.csproj.GenerateResource.Cache
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.exe
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\bin\Debug\PhoneNumber.pdb
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\bin\Debug\MySql.Data.dll
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.exe
+E:\Tutorial\Dekstop C Shap\PhoneNumber\PhoneNumber\PhoneNumber\obj\Debug\PhoneNumber.pdb
